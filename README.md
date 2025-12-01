@@ -33,6 +33,7 @@ The project is composed of three main parts:
      - `FactFeedback` – customer feedback records (type, resolution status, date, …)  
      - `FactAnomalies` – anomalies or suspected fraud events by customer  
      - `Branches` – bank branches / locations
+<img width="872" height="789" alt="class-diagram" src="https://github.com/user-attachments/assets/43ba51b9-afdc-429c-8a38-9b061e2b69cb" />
 
 3. **Power BI dashboard (`powerbi/banking-dashboard.pbix`)**  
    - Imports the relational Excel file.  
@@ -167,3 +168,4 @@ are provided in this repository and can be reused for educational or
 demonstration purposes. If you use this work or part of it in your own
 projects or publications, please cite the original dataset and this
 repository.
+
